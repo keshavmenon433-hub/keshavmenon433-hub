@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Keshav 👋
 
-<!--
-**keshavmenon433-hub/keshavmenon433-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student studying. I build machine learning
+systems and I'm especially interested in
+applying ML to markets, risk, and time-series data.
 
-Here are some ideas to get you started:
+### What I work with
+- **Languages:** Python, C++, SQL
+- **ML/DL:** PyTorch, scikit-learn, NumPy, pandas
+- **Tooling:** Git, Docker, FastAPI, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured projects
+- **[Neural Net from Scratch]** — backprop implemented in pure NumPy.
+- **[ML Pipeline + API]** — trained model served via FastAPI + Docker.
+- **[Financial Time-Series Forecasting]** — LSTM/transformer models on market data.
+
+### 📫 Reach me
+[Email](keshavmenon433@gmail.com)
