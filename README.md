@@ -5,9 +5,9 @@ systems and I'm especially interested in
 applying ML to markets, risk, and time-series data.
 
 ### What I work with
-- **Languages:** Python, C++, SQL
+- **Languages:** Python. JavaScript
 - **ML/DL:** PyTorch, scikit-learn, NumPy, pandas
-- **Tooling:** Git, Docker, FastAPI, Linux
+- **Tooling:** Git
 
 ### Featured projects
 
