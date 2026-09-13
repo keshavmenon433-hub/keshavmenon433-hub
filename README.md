@@ -10,9 +10,6 @@ applying ML to markets, risk, and time-series data.
 - **Tooling:** Git, Docker, FastAPI, Linux
 
 ### Featured projects
-- **[Neural Net from Scratch]** — backprop implemented in pure NumPy.
-- **[ML Pipeline + API]** — trained model served via FastAPI + Docker.
-- **[Financial Time-Series Forecasting]** — LSTM/transformer models on market data.
 
 ### 📫 Reach me
 [Email](keshavmenon433@gmail.com)
